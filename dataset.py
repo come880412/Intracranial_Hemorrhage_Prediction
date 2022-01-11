@@ -1,3 +1,9 @@
+'''
+Modified Date: 2022/01/12
+Author: Gi-Luen Huang
+mail: come880412@gmail.com
+'''
+
 """
 Reference: https://github.com/darraghdog/rsna/blob/master/scripts/trainorig.py
 """

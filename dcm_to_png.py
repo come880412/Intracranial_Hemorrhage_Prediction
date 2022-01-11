@@ -1,3 +1,9 @@
+'''
+Modified Date: 2022/01/11
+Author: Gi-Luen Huang
+mail: come880412@gmail.com
+'''
+
 """
 Reference : https://github.com/SeuTao/RSNA2019_Intracranial-Hemorrhage-Detection/blob/master/2DNet/src/prepare_data.py
 """

@@ -1,3 +1,9 @@
+'''
+Modified Date: 2022/01/11
+Author: Gi-Luen Huang
+mail: come880412@gmail.com
+'''
+
 import torch.nn as nn
 import torchvision
 import torch

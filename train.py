@@ -1,3 +1,9 @@
+'''
+Modified Date: 2022/01/11
+Author: Gi-Luen Huang
+mail: come880412@gmail.com
+'''
+
 import os
 import tqdm
 from dataset import DCM_data
