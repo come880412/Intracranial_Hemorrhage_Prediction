@@ -1,4 +1,4 @@
-# Intracranial_Hemorrhage_Prediction
+# Intracranial_Hemorrhage_Prediction (Pytorch)
 This repo is for the midtern project of the course Deep Learning in Medical Imaging (DLMI). Please refer to the technical document if you are interested in this task.
 
 # Task description
